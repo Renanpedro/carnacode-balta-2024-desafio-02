@@ -3,7 +3,6 @@
 # CarnaCode 2024 - Desafio 2
 O CarnaCode é um evento online e gratuito que acontece nos dias 10, 11, 12 e 13 de Fevereiro, onde você terá a oportunidade de codificar uma aplicação Web (Blazor + PWA) completa, do começo ao fim.
 
-
 👉 https://go.balta.io/carnacode-2024
 
 ## Sobre o Desafio
@@ -13,9 +12,6 @@ Neste segundo desafio, desenvolvemos uma aplicação completa para calcular o IM
 * ASP.NET
 * Razor
 * Blazor
-
-### Ferramentas Utilizadas
-* << INFORMAR A IDE UTILIZADA >>
 
 # Recompensa
 <img src="https://baltaio.blob.core.windows.net/temp/carnacode-badge-desafio-02.png" alt="CarnaCode 2024 - Segundo Desafio Completo" width="256" />

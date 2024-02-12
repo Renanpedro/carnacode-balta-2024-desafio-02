@@ -1,0 +1,121 @@
+﻿@page "/CalculoImc/create"
+@inject NavigationManager Navigation
+
+<div class="agrupa-calc-imc">
+    <EditForm Model="@Model">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="Conteudo">
+            <div id="IMC">Cálculo de IMC</div>
+
+            <div class="Agrupamento-inputs">
+                <div class="mb-3">
+                    <InputNumber @bind-Value="Model.Altura" class="form-control" placeholder="Altura"> </InputNumber>
+                    <ValidationMessage For="@(() => Model.Altura)" />
+                </div>
+
+                <div class="mb-3">
+                    <InputNumber @bind-Value="Model.Peso" class="form-control" placeholder="Peso"> </InputNumber>
+                    <ValidationMessage For="@(() => Model.Peso)" />
+                </div>
+
+                <div class="mb-3">
+                    <select @bind="Model.Sexo" class="form-control" id="SelectList">
+                        <option value="">Selecione o sexo</option>
+                        <option value="M">Masculino</option>
+                        <option value="F">Feminino</option>
+                    </select>
+                    <ValidationMessage For="@(() => Model.Sexo)" />
+                </div>
+            </div>
+
+            <div class="checkbox">
+                <input type="checkbox" /> Eu tenho 65 anos ou mais
+            </div>
+
+            <div class="agrupamento-botoes">
+                <button type="submit" class="btn btn-primary" id="Calcular"     @onclick="CalcularIMC"> Calcular IMC </button>
+                <button type="button" class="btn btn-primary" id="Entenda"      @onclick="EntendaCalculo"> Entenda o Calculo </button>
+                <button type="button" class="btn btn-primary" id="BtnHistorico" @onclick="NavegarParaHistorico"> Ver Histórico </button>
+            </div>
+        </div>
+    </EditForm>
+</div>
+
+
+@if (Model.ResultadoIMC.HasValue)
+{
+    @if (Model.ResultadoIMC < 18.5)
+    {
+        <div class="alert alert-warning mt-3">
+            Alerta o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") e você está abaixo do peso!
+        </div>
+    }
+
+    @if (Model.ResultadoIMC > 18.6 && Model.ResultadoIMC < 24.9)
+    {
+        <div class="alert alert-success mt-3">
+            Parabéns o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") e você está Saudavel!
+        </div>
+    }
+
+    @if (Model.ResultadoIMC > 25.0 && Model.ResultadoIMC < 29.9)
+    {
+        <div class="alert alert-warning mt-3">
+            Alerta o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") você está levemente acima do peso!
+        </div>
+    }
+
+    @if (Model.ResultadoIMC > 30.0 && Model.ResultadoIMC < 34.90)
+    {
+        <div class="alert alert-danger mt-3">
+            Alerta o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") você está com obesidade grau I!
+        </div>
+    }
+
+    @if (Model.ResultadoIMC > 35.0 && Model.ResultadoIMC < 39.9)
+    {
+        <div class="alert alert-danger mt-3">
+            Alerta o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") você está com obesidade grau II!
+        </div>
+    }
+
+    @if (Model.ResultadoIMC > 40.0)
+    {
+        <div class="alert alert-danger mt-3">
+            Alerta o seu IMC é: @Model.ResultadoIMC.Value.ToString("N2") você está com obesidade grau III(Mórbida)!
+        </div>
+    }
+}
+
+@code {
+    public CalculoImc Model { get; set; } = new();
+    public double? Altura { get; set; }
+
+    private void CalcularIMC()
+    {
+        if (Model.Altura != 0 && Model.Peso != 0)
+        {
+            double altura = Model.Altura.Value;
+            double peso = Model.Peso.Value;
+
+            double Resultado = peso / (altura * altura);
+            double ResultadoArredondado = Math.Round(Resultado, 2);
+
+            Model.ResultadosHistorico.Add(ResultadoArredondado);
+            Model.ResultadoIMC = ResultadoArredondado;
+        }
+    }
+
+    private void EntendaCalculo()
+    {
+        Navigation.NavigateTo("/CalculoImc/Entenda");
+    }
+
+    private void NavegarParaHistorico()
+    {
+        var resultadosHistoricoComoString = string.Join(".", Model.ResultadosHistorico);
+        Navigation.NavigateTo($"/CalculoImc/historico/{resultadosHistoricoComoString}");
+    }
+}

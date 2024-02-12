@@ -1,0 +1,83 @@
+﻿@page "/CalculoImc/historico/{historico}"
+@inject NavigationManager Navigation
+
+<div class="agrupa-calc-imc">
+    <div class="Conteudo">
+        <div class="Conteudo_Historico">
+            <div class="logo">
+                <div class="borda-imagem">
+                    <img src="imagens/icon-no-bg.png" alt="Logo Desafio" />
+                </div>
+
+                <label id="Label_Historico"> Histórico </label>
+            </div>
+
+            <div class="Pesquisa">
+                <input type="text" placeholder="Pesquisar..." id="Pesquisar" />
+            </div>
+
+            @foreach (var resultado in ResultadosHistorico)
+            {
+                <div class="Historico">
+                    <div class="Historico-1">
+                        <div class="Quadrado">
+                        </div>
+
+                        <div class="Div_His">
+                            @if (resultado >= 18.5 && resultado <= 24.9)
+                            {
+                                <div class="Peso">
+                                    <label id="Label-peso"> Peso ideal ✅ </label>
+                                </div>
+
+                                <p>
+                                    Parabéns, você está no seu peso ideal, continue mantendo este
+                                    estilo!
+                                </p>
+                                <hr id="linha" />
+                            }
+                            else if (resultado > 24.9)
+                            {
+                                <div class="Peso">
+                                    <label id="Label-peso"> Sobrepeso ⛔️  </label>
+                                </div>
+
+                                <p>
+                                    Estamos quase lá! Faça alguns ajustes para ficar no peso ideal!
+                                </p>
+                                <hr id="linha" />
+                            }
+                            else
+                            {
+                                <div class="Peso">
+                                    <label id="Label-peso"> Falta de Peso ⛔️  </label>
+                                </div>
+
+                                <p>
+                                    Estamos quase lá! Faça alguns ajustes para ficar no peso ideal!
+                                </p>
+                                <hr id="linha" />
+
+                            }
+
+                        </div>
+                    </div>
+                </div>
+
+            }
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public string historico { get; set; }
+
+    public List<double> ResultadosHistorico { get; set; }
+
+    protected override void OnInitialized()
+    {
+        ResultadosHistorico = historico.Split('.').Select(double.Parse).ToList();
+    }
+}

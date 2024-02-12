@@ -1,0 +1,55 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = IMC
+build_property.RootNamespace = IMC
+build_property.ProjectDir = C:\Users\renan\Desktop\ESTUDO\CarnaCode\carnacode-balta-2024-desafio-02\IMC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\renan\Desktop\ESTUDO\CarnaCode\carnacode-balta-2024-desafio-02\IMC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcQXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Pages/CalculoImc/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUGFnZXNcQ2FsY3Vsb0ltY1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Pages/CalculoImc/Entenda.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUGFnZXNcQ2FsY3Vsb0ltY1xFbnRlbmRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Pages/CalculoImc/Historico.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUGFnZXNcQ2FsY3Vsb0ltY1xIaXN0b3JpY28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcUGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9qs4643tw7
+
+[C:/Users/renan/Desktop/ESTUDO/CarnaCode/carnacode-balta-2024-desafio-02/IMC/Componentes/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50ZXNcTGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d4fxqaw2ma
