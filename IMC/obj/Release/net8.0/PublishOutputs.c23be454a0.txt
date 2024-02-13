@@ -1,0 +1,2 @@
+C:\Users\renan\Desktop\ESTUDO\CarnaCode\carnacode-balta-2024-desafio-02\dist\e_sqlite3.a
+C:\Users\renan\Desktop\ESTUDO\CarnaCode\carnacode-balta-2024-desafio-02\dist\web.config

@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Release\\net8.0\\compressed\\9ahodxcw0n.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Release\\net8.0\\scopedcss\\bundle\\IMC.styles.css",
+      "PackagePath": "staticwebassets\\IMC.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Release\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\obj\\Release\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-144-144.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-144-144.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-192-192.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-192-192.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-48-48.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-48-48.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-512-512.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-512-512.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-72-72.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-72-72.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\android\\android-launchericon-96-96.png",
+      "PackagePath": "staticwebassets\\imagens\\android\\android-launchericon-96-96.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\icon-no-bg.png",
+      "PackagePath": "staticwebassets\\imagens\\icon-no-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\icon.png",
+      "PackagePath": "staticwebassets\\imagens\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\imc-logo-bg-his.png",
+      "PackagePath": "staticwebassets\\imagens\\imc-logo-bg-his.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\100.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\1024.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\1024.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\114.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\114.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\120.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\120.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\128.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\128.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\144.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\144.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\152.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\152.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\16.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\167.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\167.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\180.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\180.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\192.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\192.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\20.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\256.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\256.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\29.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\32.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\40.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\50.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\512.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\512.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\57.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\58.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\60.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\64.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\72.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\76.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\80.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\80.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\ios\\87.png",
+      "PackagePath": "staticwebassets\\imagens\\ios\\87.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\LargeTile.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\LargeTile.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\LargeTile.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\LargeTile.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\LargeTile.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\LargeTile.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\LargeTile.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\LargeTile.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\LargeTile.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\LargeTile.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SmallTile.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SmallTile.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SmallTile.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SmallTile.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SmallTile.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SmallTile.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SmallTile.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SmallTile.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SmallTile.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SmallTile.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SplashScreen.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SplashScreen.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SplashScreen.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SplashScreen.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SplashScreen.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SplashScreen.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SplashScreen.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SplashScreen.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\SplashScreen.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\SplashScreen.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square150x150Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square150x150Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square150x150Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square150x150Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square150x150Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square150x150Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square150x150Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square150x150Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square150x150Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square150x150Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-20.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-24.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-256.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-30.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-32.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-36.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-40.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-44.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-48.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-60.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-64.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-72.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-80.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-96.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-lightunplated_targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-16.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-20.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-24.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-256.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-30.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-32.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-36.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-40.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-44.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-48.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-60.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-64.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-72.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-80.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-96.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.altform-unplated_targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-16.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-16.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-20.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-20.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-24.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-24.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-256.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-256.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-30.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-30.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-32.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-32.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-36.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-36.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-40.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-40.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-44.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-44.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-48.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-48.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-60.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-60.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-64.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-64.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-72.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-72.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-80.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-80.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Square44x44Logo.targetsize-96.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Square44x44Logo.targetsize-96.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\StoreLogo.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\StoreLogo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\StoreLogo.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\StoreLogo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\StoreLogo.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\StoreLogo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\StoreLogo.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\StoreLogo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\StoreLogo.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\StoreLogo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Wide310x150Logo.scale-100.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Wide310x150Logo.scale-100.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Wide310x150Logo.scale-125.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Wide310x150Logo.scale-125.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Wide310x150Logo.scale-150.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Wide310x150Logo.scale-150.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Wide310x150Logo.scale-200.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Wide310x150Logo.scale-200.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\imagens\\windows11\\Wide310x150Logo.scale-400.png",
+      "PackagePath": "staticwebassets\\imagens\\windows11\\Wide310x150Logo.scale-400.png"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\renan\\Desktop\\ESTUDO\\CarnaCode\\carnacode-balta-2024-desafio-02\\IMC\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.IMC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.IMC.props",
+      "PackagePath": "build\\IMC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IMC.props",
+      "PackagePath": "buildMultiTargeting\\IMC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.IMC.props",
+      "PackagePath": "buildTransitive\\IMC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

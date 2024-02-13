@@ -929,17 +929,17 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-p35zgrQ3QYdh3VLDWXyqqWcw4nYTjCQe1TGWRpWboks=",
+      "hash": "sha256-Q4Bt6M+hzSzErXtxCzaojUQgTd54Bv9IUbfhad4PNNY=",
       "url": "_framework\/IMC.wasm"
     },
     {
-      "hash": "sha256-HLyOJNfY+YiQMQTnEP+bB7ZUYSKck+4doFAkd\/4Iu4o=",
+      "hash": "sha256-Hs8f7QHzb20mnl7vQSxXfM1enIo8QNQFcspjEf10K9I=",
       "url": "_framework\/IMC.pdb"
     },
     {
-      "hash": "sha256-83mjiT+0\/LjAtUL8P3lenwafIsi+sGSpNi\/ot3mSG+0=",
+      "hash": "sha256-8W3tDv8s\/aO3N9eetiudSEYR4YwiuAYZTkFuf22ySl0=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "qu6cw11R"
+  "version": "saDM\/ueU"
 };
